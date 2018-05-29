@@ -14,6 +14,6 @@ c = 1000
 
 d = 10000000
 
-# 在master分支上
-
+# 两个都要
 dd = 10
+print("HHHHHHHH")
